@@ -1,4 +1,4 @@
-# 合同勉強会in大都会岡山 -2010 Winter Online-
+# 合同勉強会in大都会岡山 -2020 Winter Online-
 
 ## このリポジトリはなに？
 
